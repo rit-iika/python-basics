@@ -1,0 +1,6 @@
+#list
+#searching inside a list
+#python provied two operators to check if an item is in list or not
+#these are logical operators that reurn true/false
+#they do not modify the list
+num=[]
